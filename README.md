@@ -37,7 +37,3 @@ This project implements a simple I2C communication between two Arduino boards:
 - Requests 4 bytes from Slave every second.  
 - Stores readings in EEPROM circularly (last 10 values).  
 - Prints received distance or saved EEPROM data on command.
-
-## Author
-
-Manuel Dotto - manueldotto28@gmail.com 
