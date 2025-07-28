@@ -40,10 +40,6 @@ This project implements a simple I2C communication between two Arduino boards:
 - Stores readings in EEPROM circularly (last 10 values).  
 - Prints received distance or saved EEPROM data on command.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
-Your Name - your.email@example.com  
+Manuel Dotto - manueldotto28@gmail.com 
